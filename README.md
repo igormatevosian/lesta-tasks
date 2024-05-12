@@ -1,1 +1,1 @@
-# lesta_tasks
+# lesta-tasks
